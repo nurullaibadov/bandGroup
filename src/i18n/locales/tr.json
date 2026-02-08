@@ -1,0 +1,194 @@
+{
+  "common": {
+    "home": "Ana Sayfa",
+    "browse": "Göz At",
+    "create": "İlan Ver",
+    "profile": "Profil",
+    "login": "Giriş Yap",
+    "register": "Kayıt Ol",
+    "logout": "Çıkış Yap",
+    "admin": "Yönetici",
+    "search": "Ara",
+    "loading": "Yükleniyor...",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "submit": "Gönder",
+    "back": "Geri",
+    "next": "İleri",
+    "viewAll": "Tümünü Gör",
+    "noResults": "Sonuç bulunamadı",
+    "error": "Bir hata oluştu",
+    "success": "Başarılı!"
+  },
+  "landing": {
+    "hero": {
+      "title": "Mükemmel",
+      "titleHighlight": "Müzisyeninizi",
+      "subtitle": "Grubunuz veya projeniz için yetenekli davulcular, gitaristler ve müzisyenlerle bağlantı kurun",
+      "searchPlaceholder": "Hangi müzisyeni arıyorsunuz?",
+      "cta": "Aramaya Başla",
+      "postAd": "İlan Ver"
+    },
+    "stats": {
+      "musicians": "Müzisyen",
+      "bands": "Kurulan Grup",
+      "announcements": "Aktif İlan"
+    },
+    "instruments": {
+      "title": "Enstrümana Göre Müzisyen Bul",
+      "drums": "Davulcular",
+      "guitar": "Gitaristler",
+      "bass": "Basçılar",
+      "keyboard": "Klavyeciler",
+      "vocals": "Vokalistler",
+      "other": "Diğer"
+    },
+    "howItWorks": {
+      "title": "Nasıl Çalışır",
+      "step1Title": "Hesap Oluşturun",
+      "step1Desc": "Ücretsiz kaydolun ve müzisyen profilinizi ayarlayın",
+      "step2Title": "İlan Verin veya Göz Atın",
+      "step2Desc": "Bir ilan oluşturun veya mevcut müzisyen ilanlarına göz atın",
+      "step3Title": "Bağlantı Kurun",
+      "step3Desc": "İhtiyaçlarınıza uygun müzisyenlerle iletişime geçin"
+    },
+    "cta": {
+      "title": "Grup Arkadaşınızı Bulmaya Hazır mısınız?",
+      "subtitle": "Mükemmel eşleşmesini bulan binlerce müzisyene katılın",
+      "button": "Ücretsiz Başlayın"
+    }
+  },
+  "auth": {
+    "loginTitle": "Tekrar Hoş Geldiniz",
+    "loginSubtitle": "MyDummer hesabınıza giriş yapın",
+    "registerTitle": "MyDummer'a Katılın",
+    "registerSubtitle": "Müzisyen hesabınızı oluşturun",
+    "forgotTitle": "Şifre Sıfırla",
+    "forgotSubtitle": "Sıfırlama talimatlarını almak için e-postanızı girin",
+    "email": "E-posta",
+    "password": "Şifre",
+    "confirmPassword": "Şifre Tekrarı",
+    "fullName": "Ad Soyad",
+    "username": "Kullanıcı Adı",
+    "rememberMe": "Beni hatırla",
+    "forgotPassword": "Şifremi unuttum",
+    "noAccount": "Hesabınız yok mu?",
+    "hasAccount": "Zaten hesabınız var mı?",
+    "signUp": "Kayıt ol",
+    "signIn": "Giriş yap",
+    "sendReset": "Sıfırlama Linki Gönder",
+    "backToLogin": "Girişe dön",
+    "resetSent": "Şifre sıfırlama e-postası gönderildi! Gelen kutunuzu kontrol edin.",
+    "loginSuccess": "Tekrar hoş geldiniz!",
+    "registerSuccess": "Hesap oluşturuldu! Lütfen doğrulamak için e-postanızı kontrol edin.",
+    "errors": {
+      "invalidEmail": "Lütfen geçerli bir e-posta girin",
+      "passwordLength": "Şifre en az 6 karakter olmalıdır",
+      "passwordMatch": "Şifreler eşleşmiyor",
+      "required": "Bu alan zorunludur"
+    }
+  },
+  "announcements": {
+    "title": "Müzisyen İlanları",
+    "subtitle": "Projeniz için mükemmel müzisyeni bulun",
+    "createTitle": "İlanınızı Yayınlayın",
+    "createSubtitle": "Müzisyen mi arıyorsunuz? Onların sizi bulmasına izin verin!",
+    "form": {
+      "title": "İlan Başlığı",
+      "titlePlaceholder": "örn: Rock grubu için davulcu arıyorum",
+      "description": "Açıklama",
+      "descriptionPlaceholder": "Ne aradığınızı, projenizi, müzik tarzınızı vb. açıklayın",
+      "instrument": "Aranan Enstrüman",
+      "location": "Konum",
+      "locationPlaceholder": "örn: İstanbul, Türkiye",
+      "genre": "Müzik Türü",
+      "genrePlaceholder": "örn: Rock, Caz, Pop",
+      "experience": "Gereken Deneyim",
+      "experiencePlaceholder": "örn: 3+ yıl, yeni başlayanlar kabul",
+      "contactEmail": "İletişim E-postası",
+      "contactPhone": "Telefon (opsiyonel)"
+    },
+    "instruments": {
+      "drums": "Davul",
+      "guitar": "Gitar",
+      "bass": "Bas",
+      "keyboard": "Klavye",
+      "vocals": "Vokal",
+      "violin": "Keman",
+      "saxophone": "Saksafon",
+      "trumpet": "Trompet",
+      "flute": "Flüt",
+      "other": "Diğer"
+    },
+    "status": {
+      "active": "Aktif",
+      "closed": "Kapalı",
+      "pending": "Beklemede"
+    },
+    "filters": {
+      "all": "Tüm Enstrümanlar",
+      "location": "Tüm Konumlar",
+      "sortBy": "Sırala",
+      "newest": "En Yeniler",
+      "oldest": "En Eskiler"
+    },
+    "card": {
+      "postedBy": "Yayınlayan",
+      "contact": "İletişim",
+      "viewDetails": "Detayları Gör"
+    },
+    "empty": "Henüz ilan yok. İlk ilan veren siz olun!",
+    "myAds": "İlanlarım",
+    "createSuccess": "İlanınız yayınlandı!",
+    "deleteSuccess": "İlan başarıyla silindi"
+  },
+  "profile": {
+    "title": "Profilim",
+    "editProfile": "Profili Düzenle",
+    "myAnnouncements": "İlanlarım",
+    "settings": "Ayarlar",
+    "bio": "Hakkında",
+    "bioPlaceholder": "Kendinizi ve müziğinizi anlatın...",
+    "location": "Konum",
+    "instruments": "Enstrümanlar",
+    "experience": "Deneyim Yılı",
+    "updateSuccess": "Profil başarıyla güncellendi!"
+  },
+  "admin": {
+    "title": "Yönetici Paneli",
+    "overview": "Genel Bakış",
+    "users": "Kullanıcılar",
+    "announcements": "İlanlar",
+    "settings": "Ayarlar",
+    "totalUsers": "Toplam Kullanıcı",
+    "totalAds": "Toplam İlan",
+    "activeAds": "Aktif İlan",
+    "newToday": "Bugün Yeni",
+    "userManagement": "Kullanıcı Yönetimi",
+    "adManagement": "İlan Yönetimi",
+    "actions": {
+      "makeAdmin": "Yönetici Yap",
+      "removeAdmin": "Yöneticiyi Kaldır",
+      "ban": "Kullanıcıyı Yasakla",
+      "unban": "Yasağı Kaldır",
+      "approve": "Onayla",
+      "reject": "Reddet",
+      "delete": "Sil"
+    },
+    "noAccess": "Bu sayfaya erişim izniniz yok"
+  },
+  "footer": {
+    "description": "Dünya çapında müzisyenleri birbirine bağlıyoruz",
+    "quickLinks": "Hızlı Bağlantılar",
+    "support": "Destek",
+    "legal": "Yasal",
+    "contact": "Bize Ulaşın",
+    "help": "Yardım Merkezi",
+    "faq": "SSS",
+    "terms": "Kullanım Koşulları",
+    "privacy": "Gizlilik Politikası",
+    "copyright": "© 2024 MyDummer. Tüm hakları saklıdır."
+  }
+}

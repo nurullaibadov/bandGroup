@@ -1,0 +1,194 @@
+{
+  "common": {
+    "home": "Home",
+    "browse": "Browse",
+    "create": "Post Ad",
+    "profile": "Profile",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "admin": "Admin",
+    "search": "Search",
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "submit": "Submit",
+    "back": "Back",
+    "next": "Next",
+    "viewAll": "View All",
+    "noResults": "No results found",
+    "error": "An error occurred",
+    "success": "Success!"
+  },
+  "landing": {
+    "hero": {
+      "title": "Find Your Perfect",
+      "titleHighlight": "Musician",
+      "subtitle": "Connect with talented drummers, guitarists, and musicians for your band or project",
+      "searchPlaceholder": "What musician are you looking for?",
+      "cta": "Start Searching",
+      "postAd": "Post an Ad"
+    },
+    "stats": {
+      "musicians": "Musicians",
+      "bands": "Bands Formed",
+      "announcements": "Active Ads"
+    },
+    "instruments": {
+      "title": "Find Musicians By Instrument",
+      "drums": "Drummers",
+      "guitar": "Guitarists",
+      "bass": "Bassists",
+      "keyboard": "Keyboardists",
+      "vocals": "Vocalists",
+      "other": "Other"
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "step1Title": "Create an Account",
+      "step1Desc": "Sign up for free and set up your musician profile",
+      "step2Title": "Post or Browse",
+      "step2Desc": "Create an ad or browse existing musician listings",
+      "step3Title": "Connect",
+      "step3Desc": "Reach out to musicians that match your needs"
+    },
+    "cta": {
+      "title": "Ready to Find Your Bandmate?",
+      "subtitle": "Join thousands of musicians who have found their perfect match",
+      "button": "Get Started Free"
+    }
+  },
+  "auth": {
+    "loginTitle": "Welcome Back",
+    "loginSubtitle": "Sign in to your MyDummer account",
+    "registerTitle": "Join MyDummer",
+    "registerSubtitle": "Create your musician account",
+    "forgotTitle": "Reset Password",
+    "forgotSubtitle": "Enter your email to receive reset instructions",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "fullName": "Full Name",
+    "username": "Username",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "signUp": "Sign up",
+    "signIn": "Sign in",
+    "sendReset": "Send Reset Link",
+    "backToLogin": "Back to login",
+    "resetSent": "Password reset email sent! Check your inbox.",
+    "loginSuccess": "Welcome back!",
+    "registerSuccess": "Account created! Please check your email to verify.",
+    "errors": {
+      "invalidEmail": "Please enter a valid email",
+      "passwordLength": "Password must be at least 6 characters",
+      "passwordMatch": "Passwords do not match",
+      "required": "This field is required"
+    }
+  },
+  "announcements": {
+    "title": "Musician Listings",
+    "subtitle": "Find the perfect musician for your project",
+    "createTitle": "Post Your Ad",
+    "createSubtitle": "Looking for a musician? Let them find you!",
+    "form": {
+      "title": "Ad Title",
+      "titlePlaceholder": "e.g., Looking for a drummer for rock band",
+      "description": "Description",
+      "descriptionPlaceholder": "Describe what you're looking for, your project, music style, etc.",
+      "instrument": "Instrument Needed",
+      "location": "Location",
+      "locationPlaceholder": "e.g., New York, NY",
+      "genre": "Music Genre",
+      "genrePlaceholder": "e.g., Rock, Jazz, Pop",
+      "experience": "Experience Required",
+      "experiencePlaceholder": "e.g., 3+ years, beginner friendly",
+      "contactEmail": "Contact Email",
+      "contactPhone": "Contact Phone (optional)"
+    },
+    "instruments": {
+      "drums": "Drums",
+      "guitar": "Guitar",
+      "bass": "Bass",
+      "keyboard": "Keyboard",
+      "vocals": "Vocals",
+      "violin": "Violin",
+      "saxophone": "Saxophone",
+      "trumpet": "Trumpet",
+      "flute": "Flute",
+      "other": "Other"
+    },
+    "status": {
+      "active": "Active",
+      "closed": "Closed",
+      "pending": "Pending"
+    },
+    "filters": {
+      "all": "All Instruments",
+      "location": "Any Location",
+      "sortBy": "Sort by",
+      "newest": "Newest First",
+      "oldest": "Oldest First"
+    },
+    "card": {
+      "postedBy": "Posted by",
+      "contact": "Contact",
+      "viewDetails": "View Details"
+    },
+    "empty": "No announcements yet. Be the first to post!",
+    "myAds": "My Ads",
+    "createSuccess": "Your ad has been posted!",
+    "deleteSuccess": "Ad deleted successfully"
+  },
+  "profile": {
+    "title": "My Profile",
+    "editProfile": "Edit Profile",
+    "myAnnouncements": "My Announcements",
+    "settings": "Settings",
+    "bio": "Bio",
+    "bioPlaceholder": "Tell us about yourself and your music...",
+    "location": "Location",
+    "instruments": "Instruments",
+    "experience": "Years of Experience",
+    "updateSuccess": "Profile updated successfully!"
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "overview": "Overview",
+    "users": "Users",
+    "announcements": "Announcements",
+    "settings": "Settings",
+    "totalUsers": "Total Users",
+    "totalAds": "Total Ads",
+    "activeAds": "Active Ads",
+    "newToday": "New Today",
+    "userManagement": "User Management",
+    "adManagement": "Ad Management",
+    "actions": {
+      "makeAdmin": "Make Admin",
+      "removeAdmin": "Remove Admin",
+      "ban": "Ban User",
+      "unban": "Unban User",
+      "approve": "Approve",
+      "reject": "Reject",
+      "delete": "Delete"
+    },
+    "noAccess": "You don't have permission to access this page"
+  },
+  "footer": {
+    "description": "Connecting musicians worldwide",
+    "quickLinks": "Quick Links",
+    "support": "Support",
+    "legal": "Legal",
+    "contact": "Contact Us",
+    "help": "Help Center",
+    "faq": "FAQ",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "copyright": "© 2024 MyDummer. All rights reserved."
+  }
+}
